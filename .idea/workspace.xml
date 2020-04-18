@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9ffb5ca-0cfe-498c-b546-e93d90744327" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ElementoreTemplate/1. focus de focus and gray.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElementoreTemplate/2. work with color.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElementoreTemplate/3 hero section animation.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/background/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/background/background.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/background/pencil-horse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    <list default="true" id="d9ffb5ca-0cfe-498c-b546-e93d90744327" name="Default Changelist" comment="docker update">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +19,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="467">
+              <caret line="222" selection-start-line="222" selection-end-line="222" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -69,9 +68,14 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Practice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\docker\Elementor\ElementorSite" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -98,6 +102,7 @@
       <workItem from="1586759360151" duration="2774000" />
       <workItem from="1586776329710" duration="1287000" />
       <workItem from="1587032904981" duration="698000" />
+      <workItem from="1587159470077" duration="520000" />
     </task>
     <task id="LOCAL-00001" summary="docker update">
       <created>1586760074107</created>
@@ -110,13 +115,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4759000" />
+    <option name="totallyTimeSpent" value="5279000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -152,15 +156,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
+        <state relative-caret-position="467">
           <caret line="222" selection-start-line="222" selection-end-line="222" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
