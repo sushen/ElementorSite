@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9ffb5ca-0cfe-498c-b546-e93d90744327" name="Default Changelist" comment="docker update">
-      <change afterPath="$PROJECT_DIR$/.gitignorer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/Database Likn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/db/Database Likn.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +112,7 @@
       <workItem from="1586776329710" duration="1287000" />
       <workItem from="1587032904981" duration="698000" />
       <workItem from="1587159470077" duration="520000" />
-      <workItem from="1587218100621" duration="1183000" />
+      <workItem from="1587218100621" duration="1812000" />
     </task>
     <task id="LOCAL-00001" summary="docker update">
       <created>1586760074107</created>
@@ -126,7 +125,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6462000" />
+    <option name="totallyTimeSpent" value="7091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -167,7 +166,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignorer">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
           <caret line="222" selection-start-line="222" selection-end-line="222" />
